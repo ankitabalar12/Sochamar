@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Só chamar</string>
+     <string name="facebook_app_id">2593162680891209</string>
+     <string name="facebook_clinet_token">cac7588d97d059f138c25641c284f0d7</string>
+</resources>
